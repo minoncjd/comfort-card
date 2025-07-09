@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* Optional: Sparkle shimmer effect */
+@layer utilities {
+  .sparkle-text {
+    background: linear-gradient(90deg, #ffffff, #ffe0f0, #ffffff);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shimmer 2s linear infinite;
+  }
+
+  @keyframes shimmer {
+    0% {
+      background-position: 0% center;
+    }
+    100% {
+      background-position: 200% center;
+    }
+  }
+}
