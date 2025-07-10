@@ -5,5 +5,6 @@ export const categoryColors: Record<string, string> = {
   growth: "bg-green-500",
   future: "bg-blue-500",
   sex: "bg-rose-600",
+  flirt: "bg-fuchsia-500",
   default: "bg-gray-500",
 };
