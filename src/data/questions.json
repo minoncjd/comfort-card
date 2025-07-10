@@ -123,5 +123,25 @@
   {
     "category": "sex",
     "question": "If we were alone with no rules for one night, what would you want to do?"
+  },
+  {
+    "category": "flirt",
+    "question": "What do you find most irresistible about me — physically or otherwise?"
+  },
+  {
+    "category": "flirt",
+    "question": "If I kissed you right now, where would you want it to lead?"
+  },
+  {
+    "category": "flirt",
+    "question": "What outfit of mine turns you on the most?"
+  },
+  {
+    "category": "flirt",
+    "question": "If we were alone on a weekend getaway, what would you want us to do all day?"
+  },
+  {
+    "category": "flirt",
+    "question": "What's one way I could tease you that would drive you crazy—in a good way?"
   }
 ]
