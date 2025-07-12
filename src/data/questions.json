@@ -1,40 +1,25 @@
 [
   {
     "category": "trust",
-    "question": "Have you ever been tempted while in a relationship? How did you handle it?"
+    "question": "What does trust mean to you in a relationship?"
   },
   {
     "category": "trust",
-    "question": "What’s something you’ve never told a past partner that you feel comfortable telling me?"
+    "question": "What kind of actions make you feel safe emotionally?"
   },
   {
     "category": "trust",
-    "question": "Do you believe people can change? Why or why not?"
+    "question": "Have you ever had your trust broken? How did you heal?"
   },
   {
     "category": "trust",
-    "question": "What’s your biggest fear when it comes to us?"
+    "question": "What can I do to help you trust me more?"
   },
   {
     "category": "trust",
-    "question": "When was the last time you lied in a relationship? Why?"
+    "question": "What are your fears when it comes to our relationship?"
   },
-  {
-    "category": "trust",
-    "question": "What kind of attention from others would cross a line for you?"
-  },
-  {
-    "category": "trust",
-    "question": "What can I do to make you feel safe in this relationship?"
-  },
-  {
-    "category": "trust",
-    "question": "What can I do to make you feel safe in this relationship?"
-  },
-  {
-    "category": "trust",
-    "question": "If I looked through your phone right now, would I find anything I’d question?"
-  },
+
   {
     "category": "connection",
     "question": "When do you feel closest to me?"
@@ -49,8 +34,34 @@
   },
   {
     "category": "connection",
+    "question": "Do you feel emotionally seen by me? Why or why not?"
+  },
+  {
+    "category": "connection",
     "question": "What’s one memory of us that you replay in your head?"
   },
+
+  {
+    "category": "past",
+    "question": "What is something from your past relationship that hurt you?"
+  },
+  {
+    "category": "past",
+    "question": "Is there a part of your past you’re still healing from?"
+  },
+  {
+    "category": "past",
+    "question": "What did you learn from the first time we tried dating?"
+  },
+  {
+    "category": "past",
+    "question": "What parts of your past shaped how you love today?"
+  },
+  {
+    "category": "past",
+    "question": "What’s one thing you wish your past self knew about relationships?"
+  },
+
   {
     "category": "growth",
     "question": "What part of yourself are you currently working on?"
@@ -58,6 +69,48 @@
   {
     "category": "growth",
     "question": "How do you usually handle conflict or disagreements?"
+  },
+  {
+    "category": "growth",
+    "question": "What kind of partner do you hope to become?"
+  },
+  {
+    "category": "growth",
+    "question": "What’s one healthy habit we could build together?"
+  },
+  {
+    "category": "growth",
+    "question": "How can we support each other in becoming better people?"
+  },
+
+  {
+    "category": "future",
+    "question": "What does an ideal relationship look like to you a year from now?"
+  },
+  {
+    "category": "future",
+    "question": "What are your non-negotiables for a long-term partner?"
+  },
+  {
+    "category": "future",
+    "question": "What kind of life do you hope we can create together?"
+  },
+  {
+    "category": "future",
+    "question": "Are there things you’re afraid to tell me about your future plans?"
+  },
+  {
+    "category": "future",
+    "question": "If everything worked out perfectly, what would we be doing 5 years from now?"
+  },
+
+  {
+    "category": "sex",
+    "question": "What’s something you'd love to do to me but haven’t yet?"
+  },
+  {
+    "category": "sex",
+    "question": "Describe in detail your favorite way to be touched."
   },
   {
     "category": "sex",
@@ -70,17 +123,5 @@
   {
     "category": "sex",
     "question": "If we were alone with no rules for one night, what would you want to do?"
-  },
-  {
-    "category": "flirt",
-    "question": "What outfit of mine turns you on the most?"
-  },
-  {
-    "category": "flirt",
-    "question": "If we were alone on a weekend getaway, what would you want us to do all day?"
-  },
-  {
-    "category": "flirt",
-    "question": "What's one way I could tease you that would drive you crazy—in a good way?"
   }
 ]
